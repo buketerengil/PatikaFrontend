@@ -1,5 +1,6 @@
 # index.html
 Patika HTML Ödev-1
+```HTML
 
 <!DOCTYPE html>
 <html>
@@ -34,3 +35,4 @@ Patika HTML Ödev-1
         
     </body>
 </html>
+```
