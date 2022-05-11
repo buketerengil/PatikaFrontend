@@ -1,38 +1,4 @@
 # index.html
-Patika HTML Ödev-1
-```HTML
+Patika HTML Ödev-1  
 
-<!DOCTYPE html>
-<html>
-    <head>
-
-    </head>
-    <body>
-    
-        <!--Kendini tanıtma-->
-        <h1>Buket Erengil</h1>
-        <h2>Hakkımda</h2>
-        <!--İlgi alanlarım-->
-        <p>Merhaba Ben Buket Erengil.Ankara'da yaşıyorum.İllüstrasyonlar çizmeyi seviyorum.</p>
-        <p>Çizim çalışmalarımı geliştirmek için Instagramda #cizbukiciz adında bir hesap oluşturdum.</p>
-        <p>Bu hesapta çalışmalarımı her gün yayınlıyorum.</p>
-        <!--Çizim üzerine-->
-        <h3>Sanat Akımları ve Ressamlar</h3>
-        <p>Sanat akımları ve ressamlar ile ilgili araştırmalar yapıyorum.Ressamların portrelerini bulup onların illüstrasyonlarını çiziyorum.</p>
-        <p>Ressamlar ve eserlerine yer verdiğim bir web sayfası çalışması yapmayı düşünüyorum.</p>
-        <!--Frond-end Çalışmaları üzerine-->
-        <h3>Frond-End Çalışmaları</h3>
-        <p>Yazılım derslerine yeni başladım.Kendimi adım adım geliştirip hobilerimin yer aldığı eğlenceli bir web sayfası yapmayı düşünüyorum.</p>
-        <p>Bunun için öncelikle Front-end patikasındaki dersleri tamamlamam gerekiyor.</p>
-        <h3>Bu ay içerisinde tamamlamak istediğim eğitimler şunlar:</h3>
-        <ul>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>Java Script</li>
-        </ul>
-        <p>Patika.dev üzerinden çalışıyorum.Detaylı konu açıklamaları,kaynaklar ve uzman eğitimcilerin videolarıyla eğitimimi tamamlayacağım.</p>
-        <p>Çeşitli içeriklerle ve web tasarımlarımla eğlenceli,yaratıcı çalışmalar yapmak için heyecanlanıyorum.</p>
-        
-    </body>
-</html>
-```
+![plot](odev1.png)
