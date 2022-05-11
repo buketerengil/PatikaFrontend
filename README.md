@@ -1,4 +1,4 @@
 # Patika Frontend
 ## HTML
 ## CSS
-## Veri Yapıları ve Algoritmalar
+## Veri Yapıları ve Algoritmalar  
